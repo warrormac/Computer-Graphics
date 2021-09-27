@@ -1,0 +1,3 @@
+C:/Users/user/OneDrive/UCSP/Semestre 4 Online/Grafica/prueba/GLFW_GLAD_GLUT_GLEW_cmake_project/src/Tutorial_01/out/build/x64-Debug/CMakeFiles/Tutorial_01_glfw.dir
+C:/Users/user/OneDrive/UCSP/Semestre 4 Online/Grafica/prueba/GLFW_GLAD_GLUT_GLEW_cmake_project/src/Tutorial_01/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/OneDrive/UCSP/Semestre 4 Online/Grafica/prueba/GLFW_GLAD_GLUT_GLEW_cmake_project/src/Tutorial_01/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
