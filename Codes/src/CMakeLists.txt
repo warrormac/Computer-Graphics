@@ -6,4 +6,7 @@ add_subdirectory( Tutorial_Hello_Triangle)
 add_subdirectory( Tutorial_Hello_Rec)
 add_subdirectory( Estrella)
 add_subdirectory( Casa)
-
+add_subdirectory( RGB)
+add_subdirectory( Circulo)
+add_subdirectory( Flor)
+add_subdirectory( Animacion)
