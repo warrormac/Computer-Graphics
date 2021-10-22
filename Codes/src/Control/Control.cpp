@@ -217,7 +217,7 @@ void moveDiamond()
 
     vector<float> t_axis = { variationx,variationy,0.0f };
     matrix T = matrix::GenTranslation(t_axis, 4);
-    apply(T, 5, 27);
+    apply(T, 45, 7);
 }
 
 
